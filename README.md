@@ -4,6 +4,11 @@
 ##Integrantes del equipo de desarrollo
 | Apellidos y nombres | Rol | 
 |---------------------| ---- |
-| Rojas Matos, Juan JoséS | Scrum  Master | 
-| Solis Pecho, Manuel | Duelo del proyecto |
-| Bueno ponce Pedro   | Desarrollador  |
+| Escobar Ccanto Samuel  | Desarrollador  |
+| Leiva Leiva Juan  | Desarrollador  |
+| Nolasco Meza Nilton Anthony  | Desarrollador  |
+| Ramirez Crispin William | Desarrollador  |
+| Taype Huarocc Jeanpier| Desarrollador  |
+
+
+
