@@ -1,5 +1,5 @@
 # SueldoHorizonte
-##Los objetivos del proyecto
+##LOS OBJETIVOS DEL POYECTO
   Implementar el calculo del sueldo a pagar por la empresa horizonte  
 ##Integrantes del equipo de desarrollo
 | Apellidos y nombres | Rol | 
